@@ -21,7 +21,7 @@
     interfaces.ens18 = {
       useDHCP = false;
       ipv4.addresses = [{
-        address = "192.168.4.16";
+        address = "192.168.4.17";
         prefixLength = 24;
       }];
     };
